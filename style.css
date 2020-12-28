@@ -19,6 +19,7 @@ body {
   background-color: #605e86;
   font-family: 'Montserrat', sans-serif;
   margin:0;
+  overflow-x:hidden;
 }
 
 .Parent1{
@@ -57,7 +58,7 @@ margin-left:189px;
 .Landing1{
   color:#e4baac;
   font-weight:900;
-  font-size:30px;
+  font-size:44px;
   order:2;
   margin-left: 320px;
  }
@@ -70,14 +71,14 @@ margin-left:189px;
 
  .Landing2{
    font-weight:900;
-   font-size:41px;
+   font-size:36px;
    color:#ffffff;
    order:3;
    margin-left: 320px;
  }
  .IconText1{
   font-weight:900;
-  font-size:41px;
+  font-size:34px;
   color:#ffffff;
   order:3;
   margin-left: 120px;
