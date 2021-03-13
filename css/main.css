@@ -455,12 +455,16 @@ ul.nav > li > a.active{
     margin-bottom: 20px;
 }
 .hero-cam{
+    position:absolute;
+    width:900px;
+    height:200px;
+    top:-90px;
     animation-name: cam-animation;
-    animation-duration: 2s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     -webkit-animation-name: cam-animation;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
 }
@@ -531,7 +535,8 @@ ul.nav > li > a.active{
     margin-bottom: 80px;
 }
 .feature-wrap{}
-.feature-content{}
+.feature-content{
+}
 .feature-content li{
     position: relative;
     margin-bottom: 25px;
@@ -605,9 +610,9 @@ ul.nav > li > a.active{
 	background-position: center center;
 	position: absolute;
 	width: 500px;
-	height: 500px;
+	height: 310px;
 	left: calc(50% - 233px);
-	top: calc(55% - 317px);
+	top: calc(55% - 119px);
 	display: block;
 	animation-name: feature-cam-animation;
 	animation-duration: 2s;
@@ -617,7 +622,7 @@ ul.nav > li > a.active{
 	-webkit-animation-duration: 2s;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
-	z-index: -1;
+	z-index: 1;
 }
 /*Feature Cam Animation*/
  @-webkit-keyframes feature-cam-animation {
