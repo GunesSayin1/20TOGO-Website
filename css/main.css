@@ -456,8 +456,8 @@ ul.nav > li > a.active{
 }
 .hero-cam{
     position:absolute;
-    width:900px;
-    height:200px;
+    max-width:1500px;
+    max-height:280px;
     top:-90px;
     animation-name: cam-animation;
     animation-duration: 3s;
