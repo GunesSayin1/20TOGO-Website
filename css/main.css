@@ -579,6 +579,25 @@ ul.nav > li > a.active{
 .feature-right .center{
     margin-left: 50px;
 }
+
+.test1{
+    margin-left:145px;
+}
+
+.test2{
+    margin-right:145px;
+    margin-top:-10px;
+}
+
+.center2{
+    margin-top:5px;
+    margin-right:140px;
+}
+
+.center3{
+    margin-top:5px;
+    margin-left:150px;
+}
 /*Feature Camera*/
 .feature-cam {
 	background-image: url(../img/feature-cam.png);
@@ -588,7 +607,7 @@ ul.nav > li > a.active{
 	width: 500px;
 	height: 500px;
 	left: calc(50% - 233px);
-	top: calc(55% - 217px);
+	top: calc(55% - 317px);
 	display: block;
 	animation-name: feature-cam-animation;
 	animation-duration: 2s;
