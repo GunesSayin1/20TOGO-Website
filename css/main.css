@@ -455,7 +455,6 @@ ul.nav > li > a.active{
     margin-bottom: 20px;
 }
 .hero-cam{
-    position:absolute;
     max-width:1500px;
     max-height:280px;
     top:-90px;

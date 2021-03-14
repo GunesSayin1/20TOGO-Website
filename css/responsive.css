@@ -95,6 +95,7 @@
         text-align: center;
     }
     .hero-cam{
+        max-height: 100px;
         margin-top: 60px;
     }
     .cta-content,
