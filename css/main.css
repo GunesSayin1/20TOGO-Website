@@ -334,6 +334,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 .navbar-header {
     padding: 17px 0;
+    transition: all 0.3s ease-in-out;
 }
 .navbar-header .brand{
     font-size: 25px;
@@ -341,6 +342,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     font-family: 'Roboto', sans-serif;
     letter-spacing: -1px;
     font-weight: 600;
+    transition: all 0.3s ease-in-out;
 	margin-left: 13px;
 }
 
@@ -377,10 +379,12 @@ ul.nav > li > a.active{
     padding: 10px 30px;
     display: inline-block;
     margin-left: 20px;
+    transition: all 0.3s ease-in-out;
 }
 .menu-btn{
     margin-left: 10px;
     margin-top: 10px;
+    transition: all 0.3s ease-in-out;
 }
 
 /*Mobile Menu */
