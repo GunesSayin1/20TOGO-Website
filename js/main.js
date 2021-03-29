@@ -1,5 +1,3 @@
-/* Sintex Theme Scripts */
-
 (function($){ "use strict";
              
     $(window).on('load', function() {
